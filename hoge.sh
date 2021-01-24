@@ -1,4 +1,4 @@
-git init  # git clone
+# git init or git clone
 
 git config user.name 'hoge'
 git config user.email 'hoge@example.com'
